@@ -4,7 +4,14 @@
 # Framework Laravel 
 Desenvolvido na matéria de Programação Web III,  com o intuito de realizar views simples com formulário em laravel.
 
-Atividade solicitada:
+<div align="center">
+  <h4>Layout da página inicial:</h4>
+  <img src="https://github.com/LuisaSantosSilva/Formulario_Laravel/blob/main/Update/home.png">
+  <br>
+</div>
+
+##
+**Atividade solicitada:**
 
 ATRAVÉS DE UM PROJETO EM LARAVEL:
 - utilizar a estrutura de componentes em Templates para criar View PRINCIPAL, QUEM SOMOS e CONTATO.
